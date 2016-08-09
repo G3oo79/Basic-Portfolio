@@ -1,13 +1,53 @@
-header {
+body {
 	
 
+}
+header {
+	background-color: #ffffff;
 
 }
 
 h1 {
 	background-color: #4aaaa5;
+	float: left;
+	margin: 50px
+
+
 }
 
 nav {
+	float: right;
+	background-color: #ffffff;
+	margin: 50px;
 
+}
+
+header {
+
+}
+
+section{
+	clear: both;
+}
+
+h2{
+	color: #4aaaa5;
+
+}
+
+h3{
+	color: #4aaaa5;
+}
+
+#connect {
+	margin: 50px;
+	background-color: red;
+	float: right;
+	width: 100px;
+}
+
+#about {
+	background-color: blue;
+	float: left;
+	width: 400px;
 }
